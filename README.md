@@ -50,7 +50,7 @@ Activate the virtual environment:
 
 You can then automatically install all the Python's modules required for the project to work:
 ```
-pip install requirements.txt
+pip install --upgrade -r requirements.txt
 ```
 
 For more information about virtualenv please check the documentation on : https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html
