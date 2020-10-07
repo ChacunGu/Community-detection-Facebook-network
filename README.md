@@ -6,11 +6,13 @@ Develop a tool capable of identifying communities and influencers in a social ne
 
 ## Context
 
-This project is developed in Python 3 for the Social Media Analytics course of the Master in Computer Science in the university of Fribourg, Switzerland.
+This project is developed in Python 3 for the Social Media Analytics course (given by Prof. Dr. Philippe Cudré-Mauroux and Prof. Dr. Mourad Khayati) of the Master in Computer Science in the university of Fribourg, Switzerland.
 
 This course is worth 5 ECTS points.
 
 Spring 2020.
+
+**Project supervisor**: Prof. Dr. Mourad Khayati
 
 ## Team members
 
